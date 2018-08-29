@@ -1,6 +1,4 @@
-Colin's First CS193 Lab#
-
-#Colin's First CS193 Lab#
+#Colin's First CS193 Lab
 
 - learning about the great things we can do at purdue
 - meeting new people in cs
